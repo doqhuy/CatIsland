@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5896295a5e962d4c9a5d7309e85baeb, type: 3}
+  m_Name: BlueGhost
+  m_EditorClassIdentifier: 
+  imageEnemy: {fileID: 407646805, guid: 717bb7904764929489e8f3cb94d8fdff, type: 3}
+  imageEmenyInBattle: {fileID: -814947887, guid: 717bb7904764929489e8f3cb94d8fdff, type: 3}
+  Id: 0
+  Name: "Cat ti\u1EC3u Bat"
+  Description: "M\xE8o d\u01A1i c\u1EE1 nh\u1ECF"
+  Level: 1
+  DropEXP: 5
+  BaseHP: 30
+  HP: 200
+  MaxHP: 300
+  BaseDEF: 50
+  DEF: 30
+  BaseMagicRES: 50
+  MagicRES: 50
+  BaseATK: 30
+  ATK: 50
+  BaseMagic: 50
+  Magic: 50
+  BaseSpeed: 10
+  Speed: 10
+  skill:
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 993aaa132c4a46846bd9595a2b20b78b, type: 2}
+  - {fileID: 11400000, guid: 7809776aaae4c6349a61caad33cbe30e, type: 2}
+  - {fileID: 11400000, guid: 3f6099944b5ffa444ad94479ef356467, type: 2}
+  - {fileID: 11400000, guid: ad96ff49147d46e4abe74577b5321ba9, type: 2}
+  - {fileID: 11400000, guid: e493c528fb01eab4197c9e9b6d8acb0b, type: 2}
+  - {fileID: 11400000, guid: c38f77215a350a741b73f2ae03adfdb7, type: 2}
+  - {fileID: 11400000, guid: 65228e1f6367cf842bc22ad1e1f402f8, type: 2}
+  AttackAnimationType: DarkSkill
+  BuffATKCount: 2
+  BuffATK: 10
+  BuffDEFCount: 2
+  BuffDEF: 10
+  BuffSpeedCount: 2
+  BuffSpeed: 1

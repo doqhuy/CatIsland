@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad45935078d0a04ca6f5a6304c0f49a, type: 3}
+  m_Name: Main_Quest3
+  m_EditorClassIdentifier: 
+  Image: {fileID: 1167400673, guid: b14fd024ec4cd964e80363f2129e3c1a, type: 3}
+  Id: 3
+  Name: MQ3
+  Description: "\u1EE6y th\xE1c ch\u1EB7t c\xE2y"
+  Type: Extra
+  Status: UnClaimed
+  IsReturn: 1
+  IsEventClaimed: 0
+  ItemsRequired: []
+  KillList: []
+  QuestRequired:
+  - MQ3
+  CoinReward: 1000
+  ItemReward: []
+  EquipmentReward: []
+  CharacterReward: []
+  NextQuests: []
+  PreviousQuests: []
+  MiniQuests: []

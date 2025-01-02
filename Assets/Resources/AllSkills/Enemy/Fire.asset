@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: c3a4029c27ef73a47b0435fa59083f33, type: 3}
+  Name: "L\u1EEDa \u0110\u1ECBa Ng\u1EE5c"
+  Description: "G\xE2y s\xE1t th\u01B0\u01A1ng"
+  DamageType: Physic
+  IsMultiple: 1
+  Target: Team
+  IsAttack: 1
+  IsBuffATK: 0
+  IsBuffDEF: 0
+  IsBuffSpeed: 0
+  IsRestore: 0
+  BuffCount: 0
+  AnimationType: Fire
+  Effect: "S\xE1t th\u01B0\u01A1ng = 150% Magic"
+  MPCost: 0
+  ATKScale: 0
+  MagicScale: 150
+  RestoreHP: 0
+  RestoreMP: 0
+  BuffATK: 0
+  BuffDEF: 0
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 0
+  BuffLuck: 0

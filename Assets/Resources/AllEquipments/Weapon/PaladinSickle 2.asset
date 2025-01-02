@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928033b35ddc24943ba7f71af0f2005f, type: 3}
+  m_Name: PaladinSickle 2
+  m_EditorClassIdentifier: 
+  Image: {fileID: 829779633, guid: c004ed4c5260a4f4db487c3fdb1f79b5, type: 3}
+  Id: 0
+  Name: "Th\u01B0\u01A1ng Quan V\u0169"
+  Stat: + 50 ATK, 50 HP, 1 Speed
+  Description: "Xu\u1EA5t x\u1EE9 t\u1EEB th\u1EDDi Tam Qu\u1ED1c, h\u1EC7 c\u1EADn
+    chi\u1EBFn"
+  Type: Weapon
+  AttackType: Hit
+  Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
+  HP: 0
+  MP: 0
+  ATK: 50
+  Magic: 50
+  DEF: 0
+  MagicRES: 0
+  Speed: 1
+  Luck: 0
+  Price: 500

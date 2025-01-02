@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: Roar
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 6f8e4f9f03acf3149a940772faaff83c, type: 3}
+  Name: "Ti\u1EBFng G\u1EA7m C\u1EE7a G\u1EA5u"
+  Description: "L\xE0m k\u1EBB \u0111\u1ECBch run s\u1EE3, gi\u1EA3m ATK k\u1EBB
+    \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+  DamageType: Physic
+  IsMultiple: 1
+  Target: Team
+  IsAttack: 0
+  IsBuffATK: 1
+  IsBuffDEF: 0
+  IsBuffSpeed: 0
+  IsRestore: 0
+  BuffCount: 3
+  AnimationType: Dark1
+  Effect: "Gi\u1EA3m 10% ATK"
+  MPCost: 0
+  ATKScale: 0
+  MagicScale: 0
+  RestoreHP: 0
+  RestoreMP: 0
+  BuffATK: -10
+  BuffDEF: 0
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 0
+  BuffLuck: 0

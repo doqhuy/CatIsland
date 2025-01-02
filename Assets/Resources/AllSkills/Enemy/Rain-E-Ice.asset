@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: Rain-E-Ice
+  m_EditorClassIdentifier: 
+  Image: {fileID: 0}
+  Name: "T\u0103ng Khi\xEAn"
+  Description: "T\u0103ng 20 DEF"
+  DamageType: Physic
+  IsMultiple: 1
+  Target: Enemy
+  IsAttack: 0
+  IsBuffATK: 0
+  IsBuffDEF: 1
+  IsBuffSpeed: 0
+  IsRestore: 0
+  BuffCount: 0
+  AnimationType: Shield
+  Effect: 0
+  MPCost: 0
+  ATKScale: 0
+  MagicScale: 0
+  RestoreHP: 0
+  RestoreMP: 0
+  BuffATK: 0
+  BuffDEF: 20
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 0
+  BuffLuck: 0

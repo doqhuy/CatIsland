@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5896295a5e962d4c9a5d7309e85baeb, type: 3}
+  m_Name: BlackBall
+  m_EditorClassIdentifier: 
+  imageEnemy: {fileID: -653730213, guid: f6418ecc995663c49962a7eb949ccfef, type: 3}
+  imageEmenyInBattle: {fileID: 648447783, guid: f6418ecc995663c49962a7eb949ccfef, type: 3}
+  Id: 0
+  Name: Cat Duck
+  Description: "M\xE8o ti\u1EC3u t\u1ED1t m\u1ECF v\u1ECBt c\u1EE1 v\u1EEBa"
+  Level: 1
+  DropEXP: 5
+  BaseHP: 15
+  HP: 300
+  MaxHP: 500
+  BaseDEF: 100
+  DEF: 100
+  BaseMagicRES: 50
+  MagicRES: 50
+  BaseATK: 100
+  ATK: 100
+  BaseMagic: 100
+  Magic: 100
+  BaseSpeed: 10
+  Speed: 10
+  skill:
+  - {fileID: 11400000, guid: 993aaa132c4a46846bd9595a2b20b78b, type: 2}
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 7809776aaae4c6349a61caad33cbe30e, type: 2}
+  - {fileID: 11400000, guid: 3f6099944b5ffa444ad94479ef356467, type: 2}
+  - {fileID: 11400000, guid: c1f293530eb0f83459bcba4758361d4f, type: 2}
+  - {fileID: 11400000, guid: e493c528fb01eab4197c9e9b6d8acb0b, type: 2}
+  - {fileID: 11400000, guid: c38f77215a350a741b73f2ae03adfdb7, type: 2}
+  - {fileID: 11400000, guid: 65228e1f6367cf842bc22ad1e1f402f8, type: 2}
+  AttackAnimationType: Hit3
+  BuffATKCount: 2
+  BuffATK: 10
+  BuffDEFCount: 5
+  BuffDEF: 10
+  BuffSpeedCount: 2
+  BuffSpeed: 3

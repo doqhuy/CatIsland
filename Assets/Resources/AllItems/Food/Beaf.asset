@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3788fe52cfad67042a218eb177ee6dc5, type: 3}
+  m_Name: Beaf
+  m_EditorClassIdentifier: 
+  Id: 0
+  Image: {fileID: 21300000, guid: de6914f474e59714488f5a1150f4936d, type: 3}
+  IsStack: 1
+  IsKeyItem: 0
+  Usable: 1
+  Removable: 1
+  Name: "Th\u1ECBt b\xF2 Kobe"
+  EffectDescription: + 100 HP, 100 MP
+  Description: "H\u1ED3i 100 HP v\xE0 100 MP cho to\xE0n b\u1ED9 nh\xE2n v\u1EADt"
+  IsHeal: 1
+  IsBuff: 0
+  IsMultiUse: 1
+  SpecialEffect: 
+  MaterialTag: 
+  HPRestore: 100
+  MPRestore: 100
+  BuffCount: 0
+  ATKBuff: 0
+  DEFBuff: 0
+  SpeedBuff: 0
+  LuckBuff: 0
+  Price: 300

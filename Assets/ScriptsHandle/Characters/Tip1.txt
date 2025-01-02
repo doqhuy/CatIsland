@@ -1,0 +1,1 @@
+- Gắn CharacterInfo trong stats, Movement Method trong Player Controller vào đối tượng Character

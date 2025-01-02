@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5896295a5e962d4c9a5d7309e85baeb, type: 3}
+  m_Name: BlueBirdLeader
+  m_EditorClassIdentifier: 
+  imageEnemy: {fileID: 248282026, guid: 289f1a829fef47b4fbad795b7b33d9db, type: 3}
+  imageEmenyInBattle: {fileID: -721606573, guid: 289f1a829fef47b4fbad795b7b33d9db, type: 3}
+  Id: 0
+  Name: Boss Cat Mafia
+  Description: "M\xE8o Tr\xF9m Cu\u1ED1i, th\u1ED1ng tr\u1ECB h\xF2n \u0111\u1EA3o
+    b\xF3ng \u0111\xEAm"
+  Level: 100
+  DropEXP: 5
+  BaseHP: 600
+  HP: 300
+  MaxHP: 500
+  BaseDEF: 100
+  DEF: 100
+  BaseMagicRES: 100
+  MagicRES: 50
+  BaseATK: 200
+  ATK: 200
+  BaseMagic: 200
+  Magic: 200
+  BaseSpeed: 100
+  Speed: 10
+  skill:
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 993aaa132c4a46846bd9595a2b20b78b, type: 2}
+  - {fileID: 11400000, guid: 7809776aaae4c6349a61caad33cbe30e, type: 2}
+  - {fileID: 11400000, guid: 3f6099944b5ffa444ad94479ef356467, type: 2}
+  - {fileID: 11400000, guid: c1f293530eb0f83459bcba4758361d4f, type: 2}
+  - {fileID: 11400000, guid: ad96ff49147d46e4abe74577b5321ba9, type: 2}
+  - {fileID: 11400000, guid: 2d3c7ecf375c6cd438b6e48b609d2b5f, type: 2}
+  - {fileID: 11400000, guid: e493c528fb01eab4197c9e9b6d8acb0b, type: 2}
+  - {fileID: 11400000, guid: c38f77215a350a741b73f2ae03adfdb7, type: 2}
+  - {fileID: 11400000, guid: 65228e1f6367cf842bc22ad1e1f402f8, type: 2}
+  AttackAnimationType: Fire
+  BuffATKCount: 0
+  BuffATK: 0
+  BuffDEFCount: 0
+  BuffDEF: 0
+  BuffSpeedCount: 0
+  BuffSpeed: 0

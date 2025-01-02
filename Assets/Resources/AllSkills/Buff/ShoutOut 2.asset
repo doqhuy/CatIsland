@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: ShoutOut 2
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: 028ad56b5f9cf5c4d858d8a4118e7f66, type: 3}
+  Name: "T\u1ED1c \u0110\u1ED9 C\u1EE7a Flash"
+  Description: "T\u0103ng ch\u1EC9 s\u1ED1 Speed to\xE0n b\u1ED9 nh\xE2n v\u1EADt"
+  DamageType: Physic
+  IsMultiple: 1
+  Target: Team
+  IsAttack: 0
+  IsBuffATK: 0
+  IsBuffDEF: 0
+  IsBuffSpeed: 1
+  IsRestore: 0
+  BuffCount: 3
+  AnimationType: WindSkill
+  Effect: "T\u0103ng 20% Speed"
+  MPCost: 0
+  ATKScale: 0
+  MagicScale: 0
+  RestoreHP: 0
+  RestoreMP: 0
+  BuffATK: 0
+  BuffDEF: 0
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 20
+  BuffLuck: 0

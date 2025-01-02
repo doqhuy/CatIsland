@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: GrowUp
+  m_EditorClassIdentifier: 
+  Image: {fileID: 0}
+  Name: "T\u0103ng T\u1EA5n C\xF4ng"
+  Description: "T\u0103ng 20 ATK "
+  DamageType: Physic
+  IsMultiple: 0
+  Target: Enemy
+  IsAttack: 0
+  IsBuffATK: 1
+  IsBuffDEF: 0
+  IsBuffSpeed: 0
+  IsRestore: 0
+  BuffCount: 3
+  AnimationType: Slash2
+  Effect: Buff
+  MPCost: 0
+  ATKScale: 0
+  MagicScale: 0
+  RestoreHP: 0
+  RestoreMP: 0
+  BuffATK: 20
+  BuffDEF: 0
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 0
+  BuffLuck: 0

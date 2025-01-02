@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b2e531f2a6be05458b2290e1d18d8bc, type: 3}
+  m_Name: NormalCat
+  m_EditorClassIdentifier: 
+  Id: 0
+  Avatar: {fileID: 385635061, guid: 1db0786b3d7c9f544b24f5568298e67b, type: 3}
+  AvatarInBattle: {fileID: -1194115568, guid: 1db0786b3d7c9f544b24f5568298e67b, type: 3}
+  AnimatorController: {fileID: 9100000, guid: 46ee5054eb787aa4ebfb983e61771686, type: 2}
+  Name: Huy
+  Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
+  Description: "M\xE8o nh\xE2n v\u1EADt ch\xEDnh, th\xEDch \u0103n b\xF2 K\xF4 b\xEA,
+    gh\xE9t b\u1ECB ch\xEA x\u1EA5u. K\u1EF9 n\u0103ng si\xEAu ph\xE0m n\u1EBFu bi\u1EBFt
+    k\u1EBFt h\u1EE3p \u0111\xFAng c\xE1ch!"
+  Level: 17
+  EXP: 50
+  UpEXP: 185
+  BaseHP: 150
+  HP: 490
+  MaxHP: 490
+  BaseMP: 100
+  MP: 280
+  MaxMP: 280
+  BaseATK: 100
+  ATK: 460
+  BaseMagic: 50
+  Magic: 330
+  BaseDEF: 50
+  DEF: 130
+  BaseMagicRES: 50
+  MagicRES: 130
+  BaseLuck: 2
+  Luck: 2
+  BaseSpeed: 20
+  Speed: 52
+  Helmet: {fileID: 0}
+  Armor: {fileID: 0}
+  Weapon: {fileID: 0}
+  Accessory: {fileID: 0}
+  learnedSkills:
+  - {fileID: 11400000, guid: 98c37acc949b35d4e9b83d6fd4576e83, type: 2}
+  - {fileID: 11400000, guid: 8de2c75a4fb0a6d46bdac4cff420db5f, type: 2}
+  ListSkill:
+  - Skill: {fileID: 11400000, guid: 98c37acc949b35d4e9b83d6fd4576e83, type: 2}
+    LvRequired: 1
+  - Skill: {fileID: 11400000, guid: 8de2c75a4fb0a6d46bdac4cff420db5f, type: 2}
+    LvRequired: 2
+  - Skill: {fileID: 11400000, guid: d23f34c975d9bba42a3a82674cda1e7b, type: 2}
+    LvRequired: 3
+  - Skill: {fileID: 11400000, guid: 5882119118bd85f47b53008aa2ac99b9, type: 2}
+    LvRequired: 5
+  - Skill: {fileID: 11400000, guid: 6f87d3274700e9f4bae33c4c5e89cc0a, type: 2}
+    LvRequired: 5
+  - Skill: {fileID: 11400000, guid: 1ac572ecec848fd4c8d41ba4f2b11fc5, type: 2}
+    LvRequired: 11
+  - Skill: {fileID: 11400000, guid: 242a0357b5a00da46b6e978cbbf28e7c, type: 2}
+    LvRequired: 12
+  - Skill: {fileID: 11400000, guid: 6bcb57fc06a2f6242afff06e35c12bfc, type: 2}
+    LvRequired: 13
+  AttackAnimationType: Plant1
+  IsPlaying: 0
+  IsInTeam: 1
+  IsClaimed: 0
+  BuffATKCount: 0
+  BuffATK: 0
+  BuffDEFCount: 0
+  BuffDEF: 0
+  BuffSpeedCount: 0
+  BuffSpeed: 0

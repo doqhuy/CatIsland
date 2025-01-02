@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928033b35ddc24943ba7f71af0f2005f, type: 3}
+  m_Name: WoodenBow 3
+  m_EditorClassIdentifier: 
+  Image: {fileID: -41307881, guid: c004ed4c5260a4f4db487c3fdb1f79b5, type: 3}
+  Id: 2
+  Name: Cung Ashe
+  Stat: + 100 ATK, 100 Magic, 20 MP, 50 HP
+  Description: "Chuy\xEAn b\u1EAFn nh\u1EEFng v\u1EADt th\u1EC3 bay l\u01B0\u1EE3n"
+  Type: Weapon
+  AttackType: Shot
+  Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
+  HP: 50
+  MP: 20
+  ATK: 100
+  Magic: 100
+  DEF: 0
+  MagicRES: 0
+  Speed: 1
+  Luck: 0
+  Price: 700

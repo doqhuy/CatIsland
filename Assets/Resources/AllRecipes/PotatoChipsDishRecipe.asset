@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8c89a597435c724783327f3944ab8ca, type: 3}
+  m_Name: PotatoChipsDishRecipe
+  m_EditorClassIdentifier: 
+  Item: {fileID: 11400000, guid: 93e38043c48818a47a72e1359e3ee2a8, type: 2}
+  Equipment: {fileID: 0}
+  IsEquipment: 0
+  Materials:
+  - Item: {fileID: 11400000, guid: 325dbd031058389459978f3cf3e0d1c4, type: 2}
+    Quantity: 2

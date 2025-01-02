@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5896295a5e962d4c9a5d7309e85baeb, type: 3}
+  m_Name: PinkBird
+  m_EditorClassIdentifier: 
+  imageEnemy: {fileID: 21300000, guid: 4f411a61b37b20b40b1eebaf09603620, type: 3}
+  imageEmenyInBattle: {fileID: 21300000, guid: 4f411a61b37b20b40b1eebaf09603620, type: 3}
+  Id: 0
+  Name: Pink Bird
+  Description: An Enemy
+  Level: 1
+  DropEXP: 5
+  BaseHP: 100
+  HP: 100
+  MaxHP: 100
+  BaseDEF: 50
+  DEF: 50
+  BaseMagicRES: 50
+  MagicRES: 50
+  BaseATK: 100
+  ATK: 50
+  BaseMagic: 50
+  Magic: 50
+  BaseSpeed: 10
+  Speed: 10
+  skill:
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  AttackAnimationType: Hit
+  BuffATKCount: 0
+  BuffATK: 0
+  BuffDEFCount: 0
+  BuffDEF: 0
+  BuffSpeedCount: 0
+  BuffSpeed: 0

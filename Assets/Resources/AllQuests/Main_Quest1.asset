@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ad45935078d0a04ca6f5a6304c0f49a, type: 3}
+  m_Name: Main_Quest1
+  m_EditorClassIdentifier: 
+  Image: {fileID: -1710159864, guid: 5b0e6ed2fbddef74dac974ae716bdd5b, type: 3}
+  Id: 1
+  Name: MQ1
+  Description: "\u1EE6y th\xE1c \"Ti\xEAu di\u1EC7t b\u1ECDn m\xE8o Mafia\" c\u1EE7a
+    YellowCat"
+  Type: Main
+  Status: UnClaimed
+  IsReturn: 1
+  IsEventClaimed: 0
+  ItemsRequired: []
+  KillList: []
+  QuestRequired:
+  - MQ1
+  CoinReward: 5000
+  ItemReward:
+  - item: {fileID: 11400000, guid: fd446aba10a11184a8b55f6005bfaa50, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: bf983d1ee316c5c439024df54304dae4, type: 2}
+    amount: 2
+  - item: {fileID: 11400000, guid: 7c49c589ca392c348aacd45478a2b7e2, type: 2}
+    amount: 2
+  EquipmentReward: []
+  CharacterReward:
+  - {fileID: 11400000, guid: 93532709b78c867499f4d8be325f8a07, type: 2}
+  NextQuests: []
+  PreviousQuests: []
+  MiniQuests: []

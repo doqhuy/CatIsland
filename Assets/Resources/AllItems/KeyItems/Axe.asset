@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3788fe52cfad67042a218eb177ee6dc5, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  Id: 0
+  Image: {fileID: 21300000, guid: ecf5a638a6e67ff44b2266dca3428faa, type: 3}
+  IsStack: 0
+  IsKeyItem: 1
+  Usable: 1
+  Removable: 1
+  Name: "R\xECu L\u1EDBn"
+  EffectDescription: + 100 HP, + 100 ATK
+  Description: "C\xF4ng d\u1EE5ng ch\u1EB7t c\xE2y"
+  IsHeal: 0
+  IsBuff: 0
+  IsMultiUse: 0
+  SpecialEffect: 
+  MaterialTag: 
+  HPRestore: 100
+  MPRestore: 0
+  BuffCount: 0
+  ATKBuff: 100
+  DEFBuff: 0
+  SpeedBuff: 0
+  LuckBuff: 0
+  Price: 400

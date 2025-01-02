@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f305035a92ec32d4b915aa08af691418, type: 3}
+  m_Name: MP
+  m_EditorClassIdentifier: 
+  Image: {fileID: 21300000, guid: d9f400c9413544843b67fd97ef3154ff, type: 3}
+  Name: "L\u1EDDi Th\u1EC9nh C\u1EA7u C\u1EE7a M\xE8o"
+  Description: "Chia s\u1EBB 100 MP cho nh\xE2n v\u1EADt \u0111\u01B0\u1EE3c ch\u1ECDn"
+  DamageType: Physic
+  IsMultiple: 0
+  Target: Team
+  IsAttack: 0
+  IsBuffATK: 0
+  IsBuffDEF: 0
+  IsBuffSpeed: 0
+  IsRestore: 1
+  BuffCount: 0
+  AnimationType: Heal
+  Effect: "H\u1ED3i 100 MP"
+  MPCost: 100
+  ATKScale: 0
+  MagicScale: 0
+  RestoreHP: 0
+  RestoreMP: 100
+  BuffATK: 0
+  BuffDEF: 0
+  BuffMagic: 0
+  BuffMagicRES: 0
+  BuffSpeed: 0
+  BuffLuck: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5896295a5e962d4c9a5d7309e85baeb, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  imageEnemy: {fileID: 610737426, guid: ebc2dcb4b05fc2042abffc101debd8da, type: 3}
+  imageEmenyInBattle: {fileID: -439286226, guid: ebc2dcb4b05fc2042abffc101debd8da, type: 3}
+  Id: 0
+  Name: Cat Zombie
+  Description: "M\xE8o x\xE1c s\u1ED1ng c\u1EE1 l\u1EDBn"
+  Level: 1
+  DropEXP: 5
+  BaseHP: 120
+  HP: 600
+  MaxHP: 1000
+  BaseDEF: 100
+  DEF: 100
+  BaseMagicRES: 50
+  MagicRES: 50
+  BaseATK: 50
+  ATK: 60
+  BaseMagic: 50
+  Magic: 50
+  BaseSpeed: 10
+  Speed: 15
+  skill:
+  - {fileID: 11400000, guid: 3f6099944b5ffa444ad94479ef356467, type: 2}
+  - {fileID: 11400000, guid: 4aae96f084f2fa742a59e810f8ca0bc4, type: 2}
+  - {fileID: 11400000, guid: 993aaa132c4a46846bd9595a2b20b78b, type: 2}
+  - {fileID: 11400000, guid: 7809776aaae4c6349a61caad33cbe30e, type: 2}
+  - {fileID: 11400000, guid: 2d3c7ecf375c6cd438b6e48b609d2b5f, type: 2}
+  - {fileID: 11400000, guid: e493c528fb01eab4197c9e9b6d8acb0b, type: 2}
+  - {fileID: 11400000, guid: c38f77215a350a741b73f2ae03adfdb7, type: 2}
+  - {fileID: 11400000, guid: 65228e1f6367cf842bc22ad1e1f402f8, type: 2}
+  AttackAnimationType: Plant1
+  BuffATKCount: 1
+  BuffATK: 10
+  BuffDEFCount: 5
+  BuffDEF: 20
+  BuffSpeedCount: 2
+  BuffSpeed: 2

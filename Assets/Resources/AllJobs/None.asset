@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8252a086109350b44a0bc6bc58d87522, type: 3}
+  m_Name: None
+  m_EditorClassIdentifier: 
+  Name: None
+  IsHPBonus: 0
+  HPBonusScale: 5
+  IsATKBonus: 0
+  ATKBonusScale: 5
+  IsMagicBonus: 0
+  MagicBonusScale: 5
+  IsDEFBonus: 0
+  DEFBonusScale: 5
+  IsMagicRESBonus: 0
+  MagicRESBonusScale: 5
+  IsSpeedBonus: 0
+  SpeedBonusScale: 5
+  IsLuckBonus: 0
+  LuckBonusScale: 5

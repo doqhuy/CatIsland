@@ -1,0 +1,4587 @@
+fileFormatVersion: 2
+guid: 5050f5edac7fae54aa78a2ed14f856a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_0"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126b0a52e972c347b6f4e9030bb8c6e
+      internalID: 1432591257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_53"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6475d61461142458c16fe6c6f4e89a
+      internalID: 2003984884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_70"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee2ecb26ac970489753a8c549598de
+      internalID: -572140558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_71"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f9319ebc8dcf4dafadf589dbffbf6
+      internalID: 1123362535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_72"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda593ebdf11584f87e91713a6205fb
+      internalID: 291422698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_84"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7effb5d82a1846882b75bcf24a05b
+      internalID: -697124776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_86"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee7f939f11a6e4f9b06bf2cbed35b6
+      internalID: -952873027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_87"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cde6574f8eb94091cd879a1042436
+      internalID: -1675103771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_88"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322063d0d2ba1f488f8ac6a421f31f5
+      internalID: 1620817029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_89"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd424e80025ab4d48bf9704e4502d7ef
+      internalID: 386157325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_90"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0100b9e9675fe47a6ddf82f9bcce25
+      internalID: 1871718305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_91"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 225
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3bc528fc6ee0d41ac10be4a3b1f0a4
+      internalID: -1811188751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_92"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108fb8495c688be4d8c51900bab0dc7a
+      internalID: -1468566326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_93"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 226
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afc630505a0694b9c08c271184f5dd
+      internalID: -1688226386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_94"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 226
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3c3bfa23d73b42ba489a82d865a7f
+      internalID: -1883888639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_95"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 225
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f65fb660fa85804686887394ebb1753
+      internalID: 307733949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_96"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 226
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36ba5ca76e5e94cabddc9b2b73fc92
+      internalID: 1751465226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_110"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 208
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3957f6eb5919d4fade9172175bf73d
+      internalID: -1723746637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_111"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.4935875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f404a48b982fa4d9aae423e2868e75
+      internalID: -355573791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_113"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 195
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cfaccba3228084eba06856e3eae527
+      internalID: 900369708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_114"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef8221bdab25b4d8a407f86c8bbb0c
+      internalID: -1570882913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_115"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 195
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02714fe7fd053f444801dfe0e9e0ecf7
+      internalID: -847583723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_116"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205731a4bab8204eb91a7ea8a9fa77d
+      internalID: -1998339366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_117"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae765162ebf30f34d9cc6033af46c0ff
+      internalID: 125100807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_118"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 209
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebcb4e0b282ce24bb57bec376fa7dfc
+      internalID: 610850006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_119"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 208
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61e2fcf83f0751439aa9c90f230e8af
+      internalID: -429890796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_120"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca58cd832ab474099f70b7aacdd857
+      internalID: 2054318854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_121"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb3a3270d36454386bbe52a7ebb2e8
+      internalID: 46646873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_122"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41d5695826c6a43943fcf5e00224e4
+      internalID: 964112721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_134"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1ac3a47584f04483fbec21681c052
+      internalID: 24467476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_135"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138cfede44ab614498f18e115e7aba2
+      internalID: -1589965773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_136"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 192
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b28df3a702e174cba5d41943a73ab6
+      internalID: -663838538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_137"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac55f9de4146d438630872202e0db1
+      internalID: 1264642630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_138"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 192
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04355f29a91a87b4c9bd0011ed78c191
+      internalID: -1314170392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_139"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 196
+        width: 15
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46894276, y: 0.23656318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d168b90bbf0040a9dfcb40feb4806
+      internalID: 152042924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_145"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c51f6783444c4e84541f733ee802b
+      internalID: 1218721605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_146"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a391cffe5d773e4ba805a19a0b6b099
+      internalID: -54322488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_147"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbb56cdb199a642b2b8999150ecc83
+      internalID: 692007688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_148"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 198
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f6c1df1bae8a4d879d397dedec12b
+      internalID: -699978291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_150"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb519523fe95fa4bbc6d816e1deeaae
+      internalID: 869666988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_161"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a881dc9b4b366a49be7f4f9e6739685
+      internalID: -387815718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_162"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e8b9125c7570438867da64a02f3b6
+      internalID: 657510236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_163"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f0c1a526ac8e44a82d47eae37ef9c
+      internalID: 2045066713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_164"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404400392088ba34b9b101d69a67233e
+      internalID: -72388152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_165"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 176
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67858ad5b2f2424eadaa0b033945c74
+      internalID: -927718676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_166"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 178
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ecc8f0a584817429f3d43aae44b486
+      internalID: -658936738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_167"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2940d8431d3529a4792c6c7e9c75cd64
+      internalID: -1000319359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_168"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addcc5aa7db40b44d82c7fafadb2eeca
+      internalID: 583430726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_170"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab879e4c54ae0e4ea2b4b789cf04588
+      internalID: -722005098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_171"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116a44fee1d52745a2e0bf07f90edda
+      internalID: -452663639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_173"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 178
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b50b87197e9f488c7bc65780b07d8
+      internalID: -351743122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_174"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d5f3b69ec46c46a46e4f36362f3b4
+      internalID: 1405832913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_175"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37680ca5db034ce4088fd81a146dfc03
+      internalID: -531298373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_176"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82773c5bfafb29949b30f4f5218c82a9
+      internalID: 812893512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_179"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94106a0b5a2025c48b6a455943a7f998
+      internalID: 644279036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_180"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ceb3e8caa39e45a930c9df68a51b7
+      internalID: 123177970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_181"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1a9b9900a7d24ab6b7964f1bf3cfd
+      internalID: -739637621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_182"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e97917d0bd6e440a8c235c4f84e2b0
+      internalID: -882566193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_183"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13e80c34bb6b0418dcdf3f3b8c1ea4
+      internalID: 981694798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_184"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9595ed583d2945932144e2d5b0a7d
+      internalID: 1367208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_185"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df059aed735e68d48a0c215f094ce435
+      internalID: 492995510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_186"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2889a375ae64b141bdf25b7cb72b25e
+      internalID: 24564114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_187"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3dab302176a94abf30e764797c793
+      internalID: -427548017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_188"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a75f11b83f744dbc040abdff485df
+      internalID: -2004422271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_189"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c23f38fb2dd143beb9df857ba4e64
+      internalID: -1811352148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_190"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01630b70e758ed546804126b875e8455
+      internalID: -1356540568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_191"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e15b3e9158aa8488ffb0255a76c48b
+      internalID: 1774128470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_192"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665922eff7f42f4bae6aa05702d716c
+      internalID: -574140319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_193"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f03bf278e1384aa795ced1283f52a
+      internalID: 1816240861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_197"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc6331347900947bba3a78845877e7
+      internalID: -1942321089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_198"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 161
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c6f9b91fb64844a3c4add7b310748
+      internalID: 1040399912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_199"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ca2e9254f6c24981a73b3b9d75b05
+      internalID: -1489686206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_200"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 162
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1387b2badb1b4c8cc1fbf52b8e7df
+      internalID: -2109836821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_201"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 162
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c502daa596dd44cb9d702e8cd38d71
+      internalID: -515297603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_202"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17aa1adb2e26e94ead304154c5c8a27
+      internalID: -787000373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_203"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3af9ceb9fd9c44bbe10c0230116d0d
+      internalID: 1994882776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_204"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6dcd02ba8fd7441bc2998e79a5e206
+      internalID: 549740752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_205"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bfb26198b4574f8e5323f92724da6
+      internalID: 208315756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_206"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3860f32523f76548a542682812f7706
+      internalID: 1631930060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_207"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2831b61bf18f459a40c6a3a853130
+      internalID: -1595815623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_208"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb69074a5e37d6447b5d516d927d8f6d
+      internalID: 1838112825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_209"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aaf34c5b3e4bf46855f0495a8e4d19
+      internalID: -843655932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_210"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea39a1456a2d9a40bbfa229ec21b6e8
+      internalID: 432039694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_211"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bedde307d63c94d99c8d0a62fc5084
+      internalID: -494822046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_212"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34f88c12d40f843b48cdd398a86d4e
+      internalID: -53087747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_213"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74711aba5157944ba4f9b983ff9121e
+      internalID: 1490867185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_214"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce643ae5fb03444a84847c014d0a2d6
+      internalID: 495371553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_215"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09e238167cc5349b1f89890e232623
+      internalID: -883437607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_216"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3aceb2ff7cc24d9fae7f2ba29127a
+      internalID: -709736199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_217"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b61a903a022c45a3466ca12fde8d3
+      internalID: -121548475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_218"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e805507029704049a6a8ae2883153f5
+      internalID: 1021105117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_219"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914d2554cd1f72048a6fad2219c4177a
+      internalID: -640168808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_220"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59d39a6081d714faec8d1b69db2668
+      internalID: 1705364843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_223"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 130
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397dceeac3f17c4f9d0e2d77a62ec10
+      internalID: 718813831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_225"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70120fd42cdbb6846bc56b1d089a37f3
+      internalID: -370196521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_226"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241837aaa584dc409600921952e78cf
+      internalID: 610801906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_229"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb4f344d4aa40478caae54b13b777f
+      internalID: 1772858049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_230"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 146
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b78ef690dc4f47af16cf3df4a1089
+      internalID: -1081631302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_231"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e44826ed7df494381d7690233825d4
+      internalID: 1534363868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_232"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a37dfff8cbe84984d2a0cf9f661ed
+      internalID: -1692741665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_234"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266565107814fd14a987598e7b2812df
+      internalID: -1995414960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_235"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a435d06306112ea42b53f7715430593d
+      internalID: -462388307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_236"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70c33183876c442a3264bfb604b424
+      internalID: 2125294722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_237"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2067f53f466184eb41e61153e82a31
+      internalID: -1236962932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_238"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973812073fc2b54793a70827665fb39
+      internalID: -1201833693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_239"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396fd0857d85e7644851d2ed3cdcbf73
+      internalID: -167734505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_240"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79185761868c845ac147b4400bd2d9
+      internalID: -1172698703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_241"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ec998e25e5e145a77676fdcdc2d01
+      internalID: 1673972584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_242"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3593cc207f58b4780fb7c96324c3ca
+      internalID: 2084890617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_243"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e05fdab01896a45865c094cbd24a59
+      internalID: 1709728855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_244"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8034f91a14924080f0fbe0aeee46d
+      internalID: 837943313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_245"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c68e0dd2a9934abf307cdf705b29b
+      internalID: -1435141332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_249"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3e52923497134d9c7e0a3700f2857
+      internalID: -81553089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_254"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4733491, y: 0.27944157}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e627865a5b3024448f0af6e738d6f51
+      internalID: 1400990589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_256"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e4b2ac690300458b606fee3cf2149
+      internalID: -687826771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_257"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee102ab40c8ba4590a9acf97e7e0b3
+      internalID: 251664872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_260"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3e49f6cacb7b40af6ab7f31aa0214
+      internalID: 924280957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_261"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e34534bed16249ba511bb7ce06abe
+      internalID: 789209531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_262"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185216fd599d9e34584e9a4284661b02
+      internalID: -1496008751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_263"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9c002325839d4e8dc5346fc69592a
+      internalID: 153304373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_264"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3e2d67a322bd04cba5835e70e9bb6b
+      internalID: -1369704289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_265"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3668da0176e7f7448417bbd87044406
+      internalID: 2004643492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_266"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f4104af4f9904abc2db6ccc398a13
+      internalID: 1433531881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_267"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf400d4b6b8e640b53ba133c75f183
+      internalID: 659557121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_268"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe49ae69bee9b849a6906c57fda9c5d
+      internalID: 1978363407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_269"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432155bf3333d0409693988651f0bb9
+      internalID: 1947226851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_288"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1eef60cf31c48439e790c884442da2
+      internalID: -129840608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_289"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa28b988a6bbb1428b90fc9e744b926
+      internalID: -52284690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_290"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082067188acb164a9f73d2e68269181
+      internalID: -1678146228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_291"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572ecba90c7900b489649a8fcbf10bdb
+      internalID: 598311069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_292"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a68c78c8fe6d45a1cd63f2f761e69
+      internalID: -1798288186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_293"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfad6bfaa854d44ebc54646de2d973c
+      internalID: -1328439281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_294"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b315786e7e9044972c2e06c15f814
+      internalID: -2052858819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_295"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7334f301e3ec43ae957440d0001c7
+      internalID: -500679992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_296"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 112
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f32ebd54feb5f4894dcb59c4b60446
+      internalID: 716618272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_315"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba616743cae9738419e277822321b49b
+      internalID: -990694900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_316"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f886c4dd1eed4aae1e2746e44665e
+      internalID: 1576783254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_317"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ddac823b8d284aac6252593b3f379
+      internalID: 640589595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_318"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197920a0632d38749b4b80cf3220771a
+      internalID: 1063276285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_319"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52146c842f5c3fe47af0a7a170a49108
+      internalID: -1532676329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_320"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587bd9279095e842bcfdc208a72483d
+      internalID: 581531969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_321"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf08a5630eb5e4796288463e808cc1
+      internalID: 2090146306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_322"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ecb90641fb3b3498f33317dc543106
+      internalID: 1675057429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_323"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8dbae000410844b8cf0b1dbd82f954
+      internalID: -1568635188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_327"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99105df0bd577de4a8b63408fac4cee9
+      internalID: -341254989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_328"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5751882013ce46bff0ac3762f270b
+      internalID: 277930721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_329"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.45550108, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8878638509f6a43b7398371cbf1672
+      internalID: 270566181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_330"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948db6186b8c5840bd20373d091130b
+      internalID: -2068459802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_331"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78874690dde6bd4448832054b1d82494
+      internalID: -3419687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_332"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b7f4af2d6499845923d110c2c6e570
+      internalID: -1999942807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_333"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b848a0be78f948a605bb330fbbd19
+      internalID: 167651928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_334"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd64b7286d0c664b91576a95d8e01a1
+      internalID: 1185094964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_350"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80837b66e2bf1d74695b47d31797cecd
+      internalID: -1664016823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_354"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf7a49ec6491942a2ab045ab9d9e58
+      internalID: 475238637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_355"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f986b6803d476409d9d6fb31d59276
+      internalID: 317321843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_356"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b403ca1a336aea449b339cb58dafe771
+      internalID: -581834199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_357"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c1414211092f44aad7ed40ec2627f
+      internalID: -1001696321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_358"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a4bc142fc5444587a2e8b12b9093d
+      internalID: -2083972544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_359"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd8d531b7397a4f9c35b850c85d303
+      internalID: -1675452814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_360"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda81cac63b93bb419967286ba335d12
+      internalID: 1747480095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_361"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4782e377808d25499ac7efcfc3d595f
+      internalID: 371632396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_381"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b32d9556f8406f4b8ad9133075fa4ec
+      internalID: 2130270362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_382"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5bbddd10d77ed428a27d876dec63b2
+      internalID: -2077045869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_383"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1d85474dcab84daaaf0707e478ec1
+      internalID: -564590526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_384"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060e9dc33f970e4eacb61b35db839d0
+      internalID: 1109796144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_385"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ffa01dc6bdee4d850ec1613fbc743
+      internalID: 376438628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_386"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 50
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871921dc89e65946a1ecab1eb5a8e2e
+      internalID: -2044626472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_387"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15960a46e2cbc764bbca00a3868216db
+      internalID: -1596737708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_388"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bed91dd4a1d2a4cbf7c1faf8c782be
+      internalID: 467052272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_408"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb98ed331e4f554385e9a957e5a20f2
+      internalID: -1462278304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_409"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521e2bbc01ccdb4e9631cd329666f80
+      internalID: -739005199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_410"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee95d6fa4f11444a06ffeaf06f094e
+      internalID: -2029733003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_411"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9be7a6be4076a4fab67b2d7461ddca
+      internalID: -163425194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_414"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982ad39c709fc3458753a1e7bb5f612
+      internalID: -1910791300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_415"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0b375781ea72459fc81320d76f1f7
+      internalID: -1775918015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_435"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd0d466973caec45a63a3e0323711b1
+      internalID: 868379638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_442"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48ba2c62e6b4347b4998120122b513
+      internalID: 1757954149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_459"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588de713b5a2b504a968c29381973929
+      internalID: 18286896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_460"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3115688bb6cb3f4fb5fd985000a8e33
+      internalID: -1589788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_461"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c7d648eda8d54d983f763a59992c8
+      internalID: -172765173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_462"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a99e2735f6fd845a4d47fe04fc7df9
+      internalID: 321662313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_469"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ae6e30a2cf6f4998462b76177c2c6
+      internalID: -2096122301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_1"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 224
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c634d178b90d544bb843dff722de2f2
+      internalID: 1197979725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_2"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825b80e71e01c9478eb5eea76b42fa2
+      internalID: 2050816724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_3"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dabb69aef9ddd48bc7e4d29980d127
+      internalID: -1515676292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_4"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 161
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb834caf4c35246a9318328dd75afa
+      internalID: -1026555776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_5"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae360d32e24a434499d408d00bd5d8b0
+      internalID: 1417554993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_6"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec51b8c782062d45a72ada62192890d
+      internalID: -505762991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_0": 1432591257
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_1": 1197979725
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_10": -109259017
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_100": -74042861
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_101": 192719807
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_102": 1394205399
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_103": -1308547630
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_104": -952324528
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_105": -839259220
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_106": -1935610964
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_107": -1827949983
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_108": -764392093
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_109": 2102196362
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_11": -277877529
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_110": -1723746637
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_111": -355573791
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_112": 1425012487
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_113": 900369708
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_114": -1570882913
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_115": -847583723
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_116": -1998339366
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_117": 125100807
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_118": 610850006
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_119": -429890796
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_12": 1950230101
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_120": 2054318854
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_121": 46646873
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_122": 964112721
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_123": -1512772680
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_124": -688372726
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_125": -1576141232
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_126": -1003287577
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_127": 541588964
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_128": -1634510194
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_129": 2027035632
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_13": -1927182645
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_130": -793599735
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_131": 1352403613
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_132": -1979066734
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_133": 843332475
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_134": 24467476
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_135": -1589965773
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_136": -663838538
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_137": 1264642630
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_138": -1314170392
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_139": 152042924
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_14": 1774101320
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_140": -1615082583
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_141": 1772269915
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_142": -1936662627
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_143": 786661819
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_144": 632735123
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_145": 1218721605
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_146": -54322488
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_147": 692007688
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_148": -699978291
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_149": 371268594
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_15": 208026725
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_150": 869666988
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_151": -575937488
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_152": 1084367366
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_153": 724446007
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_154": -48861919
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_155": -971959384
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_156": -1932045159
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_157": 1782424373
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_158": 1071734555
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_159": -372796531
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_16": -2048382629
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_160": 706188855
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_161": -387815718
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_162": 657510236
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_163": 2045066713
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_164": -72388152
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_165": -927718676
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_166": -658936738
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_167": -1000319359
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_168": 583430726
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_169": -2023064944
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_17": 2119714018
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_170": -722005098
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_171": -452663639
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_172": -1342116501
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_173": -351743122
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_174": 1405832913
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_175": -531298373
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_176": 812893512
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_177": 705340916
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_178": -710217596
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_179": 644279036
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_18": 1955125931
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_180": 123177970
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_181": -739637621
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_182": -882566193
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_183": 981694798
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_184": 1367208103
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_185": 492995510
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_186": 24564114
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_187": -427548017
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_188": -2004422271
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_189": -1811352148
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_19": -1779280411
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_190": -1356540568
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_191": 1774128470
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_192": -574140319
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_193": 1816240861
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_194": 1528960240
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_195": -1467695827
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_196": -510207052
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_197": -1942321089
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_198": 1040399912
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_199": -1489686206
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_2": 2050816724
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_20": 241142038
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_200": -2109836821
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_201": -515297603
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_202": -787000373
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_203": 1994882776
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_204": 549740752
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_205": 208315756
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_206": 1631930060
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_207": -1595815623
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_208": 1838112825
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_209": -843655932
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_21": 286410529
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_210": 432039694
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_211": -494822046
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_212": -53087747
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_213": 1490867185
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_214": 495371553
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_215": -883437607
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_216": -709736199
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_217": -121548475
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_218": 1021105117
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_219": -640168808
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_22": 2072829096
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_220": 1705364843
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_221": 1406977939
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_222": 1418232797
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_223": 718813831
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_224": -1102889095
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_225": -370196521
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_226": 610801906
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_227": -422894761
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_228": -495585135
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_229": 1772858049
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_23": 1520544558
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_230": -1081631302
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_231": 1534363868
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_232": -1692741665
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_233": 55886035
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_234": -1995414960
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_235": -462388307
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_236": 2125294722
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_237": -1236962932
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_238": -1201833693
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_239": -167734505
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_24": 60305784
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_240": -1172698703
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_241": 1673972584
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_242": 2084890617
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_243": 1709728855
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_244": 837943313
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_245": -1435141332
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_246": -1889646815
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_247": -351218529
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_248": -1963013420
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_249": -81553089
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_25": -1287078816
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_250": -1577157091
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_251": -247502693
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_252": 927037417
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_253": -1461963264
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_254": 1400990589
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_255": -2023281987
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_256": -687826771
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_257": 251664872
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_258": 1877265033
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_259": 1270324845
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_26": 1412657215
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_260": 924280957
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_261": 789209531
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_262": -1496008751
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_263": 153304373
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_264": -1369704289
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_265": 2004643492
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_266": 1433531881
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_267": 659557121
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_268": 1978363407
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_269": 1947226851
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_27": 874703353
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_270": -2043842969
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_271": 765145597
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_272": -269302445
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_273": -2007844977
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_274": -763651925
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_275": -1531522228
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_276": 1831227754
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_277": -266338814
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_278": -216217681
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_279": -1054365116
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_28": -1621233662
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_280": -708988152
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_281": -1901997812
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_282": 1589780338
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_283": -710350590
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_284": 1343569427
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_285": 2056954526
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_286": 340009663
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_287": 946756553
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_288": -129840608
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_289": -52284690
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_29": 689363960
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_290": -1678146228
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_291": 598311069
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_292": -1798288186
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_293": -1328439281
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_294": -2052858819
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_295": -500679992
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_296": 716618272
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_297": 469594977
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_298": 1768981763
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_299": -709332148
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_3": -1515676292
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_30": 1532260958
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_300": 1213956515
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_301": -2129921237
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_302": 190424267
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_303": -870627578
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_304": -527044025
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_305": -154523361
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_306": 36607241
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_307": -1332069498
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_308": -689216579
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_309": 1543922169
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_31": -1090245547
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_310": 469730258
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_311": 1756825781
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_312": -1754761466
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_313": -289447045
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_314": -1818044520
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_315": -990694900
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_316": 1576783254
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_317": 640589595
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_318": 1063276285
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_319": -1532676329
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_32": 1086525612
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_320": 581531969
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_321": 2090146306
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_322": 1675057429
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_323": -1568635188
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_324": 811269148
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_325": 1104860308
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_326": 264666220
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_327": -341254989
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_328": 277930721
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_329": 270566181
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_33": 2028269672
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_330": -2068459802
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_331": -3419687
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_332": -1999942807
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_333": 167651928
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_334": 1185094964
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_335": -809423949
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_336": 1945370631
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_337": -903148920
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_338": 1933825728
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_339": -436441227
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_34": 203504513
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_340": -520307771
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_341": 1704678009
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_342": -1698201007
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_343": 1276837235
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_344": -1321026707
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_345": -180616663
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_346": 1988630506
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_347": 142537276
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_348": 1099936562
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_349": 1045411978
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_35": -2012239632
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_350": -1664016823
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_351": 403781435
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_352": 291540355
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_353": -322758078
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_354": 475238637
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_355": 317321843
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_356": -581834199
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_357": -1001696321
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_358": -2083972544
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_359": -1675452814
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_36": -996659025
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_360": 1747480095
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_361": 371632396
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_362": -1706718675
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_363": 1687741780
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_364": -1070654600
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_365": -542239979
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_366": 1523048674
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_367": 531656759
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_368": -1889907456
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_369": -1953238645
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_37": 1170703792
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_370": -712650646
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_371": -2025441174
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_372": 1798526906
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_373": 396283840
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_374": -1894517222
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_375": 411213632
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_376": 1020853148
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_377": 2052448311
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_378": -510893213
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_379": -282184556
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_38": -1063351280
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_380": 530684802
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_381": 2130270362
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_382": -2077045869
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_383": -564590526
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_384": 1109796144
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_385": 376438628
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_386": -2044626472
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_387": -1596737708
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_388": 467052272
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_389": 369496897
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_39": 2014972665
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_390": -69839936
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_391": -1409251622
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_392": 1660896340
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_393": 1313968900
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_394": 737670780
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_395": 2095814519
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_396": -314055528
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_397": 844082612
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_398": -289544531
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_399": -439317415
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_4": -1026555776
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_40": 1516244852
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_400": -1978724417
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_401": -219402707
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_402": -67467455
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_403": 1656346578
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_404": -81407268
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_405": 88566124
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_406": -539299524
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_407": -1214164663
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_408": -1462278304
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_409": -739005199
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_41": 834493546
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_410": -2029733003
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_411": -163425194
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_412": -1464326684
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_413": -1752288170
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_414": -1910791300
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_415": -1775918015
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_416": 982865194
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_417": -1282816364
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_418": -1069784686
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_419": -1918580734
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_42": 207466526
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_420": 1545124223
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_421": -2050393072
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_422": -370681910
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_423": 893972722
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_424": -108970392
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_425": 1340513668
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_426": 256107000
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_427": 1792392606
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_428": 1418432474
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_429": -1169563995
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_43": -229637415
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_430": -1764260199
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_431": -1818123269
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_432": -2078444925
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_433": -642464667
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_434": 489920720
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_435": 868379638
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_436": 188143544
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_437": 992990459
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_438": 1439775695
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_439": 1660340846
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_44": 1395633857
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_440": -2089091196
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_441": -875943596
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_442": 1757954149
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_443": 1640910132
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_444": 1899920930
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_445": -251969683
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_446": 1596251868
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_447": -1077384492
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_448": 1321475940
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_449": 270127698
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_45": -1160857214
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_450": 2063673632
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_451": 665360855
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_452": -689727789
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_453": -1254855954
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_454": -928993491
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_455": 1805405388
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_456": 951877648
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_457": 2022503787
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_458": 658377077
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_459": 18286896
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_46": -1419417579
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_460": -1589788
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_461": -172765173
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_462": 321662313
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_463": 634246770
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_464": -1120656414
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_465": 1243287413
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_466": -398148803
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_467": 1132234782
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_468": -145051658
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_469": -2096122301
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_47": 63425522
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_470": 2045873055
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_471": 420992339
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_472": 1542770604
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_473": -364479715
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_474": 281835139
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_475": -1850999448
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_476": -1468124150
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_477": -929333222
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_478": -1032594382
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_479": 1860143361
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_48": -1992757245
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_480": 236842423
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_481": 884843288
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_482": -242138147
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_483": 1595539815
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_484": 219741517
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_485": 905873626
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_49": 322281240
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_5": 1417554993
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_50": 1866385563
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_51": 1930524559
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_52": -1110601048
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_53": 2003984884
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_54": 1317587382
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_55": 22071358
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_56": -779713910
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_57": -711207237
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_58": -2046960542
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_59": -1646569977
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_6": -505762991
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_60": 915630782
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_61": 313685986
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_62": 909899782
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_63": 805913420
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_64": -1359706619
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_65": -1698829337
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_66": 1612353334
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_67": -1900561070
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_68": 308722541
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_69": -877932948
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_7": -723523385
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_70": -572140558
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_71": 1123362535
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_72": 291422698
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_73": 1189920617
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_74": -572509820
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_75": 1299057615
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_76": 1222849934
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_77": 994386205
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_78": 1597818093
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_79": 155412615
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_8": 1248142464
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_80": -1229741073
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_81": 2092082315
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_82": 692956565
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_83": 1449825756
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_84": -697124776
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_85": -764926134
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_86": -952873027
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_87": -1675103771
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_88": 1620817029
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_89": 386157325
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_9": 476398741
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_90": 1871718305
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_91": -1811188751
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_92": -1468566326
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_93": -1688226386
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_94": -1883888639
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_95": 307733949
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_96": 1751465226
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_97": 1109382793
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_98": 278929189
+      "tileset - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p - Sao ch\xE9p_99": 164300796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

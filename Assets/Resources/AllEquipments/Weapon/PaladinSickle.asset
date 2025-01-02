@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928033b35ddc24943ba7f71af0f2005f, type: 3}
+  m_Name: PaladinSickle
+  m_EditorClassIdentifier: 
+  Image: {fileID: 933825425, guid: c004ed4c5260a4f4db487c3fdb1f79b5, type: 3}
+  Id: 0
+  Name: "Gi\xE1o G\u1ED7"
+  Stat: + 20 ATK, 20 HP
+  Description: "Gi\xE1o t\xE2n binh"
+  Type: Weapon
+  AttackType: Hit
+  Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
+  HP: 20
+  MP: 0
+  ATK: 20
+  Magic: 0
+  DEF: 0
+  MagicRES: 0
+  Speed: 0
+  Luck: 0
+  Price: 100

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 928033b35ddc24943ba7f71af0f2005f, type: 3}
+  m_Name: WoodenStaff 2
+  m_EditorClassIdentifier: 
+  Image: {fileID: 610763343, guid: c004ed4c5260a4f4db487c3fdb1f79b5, type: 3}
+  Id: 1
+  Name: "G\u1EADy Harry P\xF3t T\u01A1"
+  Stat: + 60 Magic, 60 HP, 20 MP, 1 Luck
+  Description: "G\u1EADy ph\xE1 c\xE1c hi\u1EC7u \u1EE9ng kh\u1ED1ng ch\u1EBF c\u1EE9ng"
+  Type: Weapon
+  AttackType: QuickShot
+  Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
+  HP: 60
+  MP: 20
+  ATK: 0
+  Magic: 60
+  DEF: 50
+  MagicRES: 0
+  Speed: 0
+  Luck: 1
+  Price: 500
