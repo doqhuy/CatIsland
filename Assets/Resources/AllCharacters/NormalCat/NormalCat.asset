@@ -21,19 +21,19 @@ MonoBehaviour:
   Description: "M\xE8o nh\xE2n v\u1EADt ch\xEDnh, th\xEDch \u0103n b\xF2 K\xF4 b\xEA,
     gh\xE9t b\u1ECB ch\xEA x\u1EA5u. K\u1EF9 n\u0103ng si\xEAu ph\xE0m n\u1EBFu bi\u1EBFt
     k\u1EBFt h\u1EE3p \u0111\xFAng c\xE1ch!"
-  Level: 17
+  Level: 11
   EXP: 50
   UpEXP: 185
   BaseHP: 150
-  HP: 490
-  MaxHP: 490
+  HP: 390
+  MaxHP: 390
   BaseMP: 100
-  MP: 280
-  MaxMP: 280
+  MP: 260
+  MaxMP: 260
   BaseATK: 100
-  ATK: 460
+  ATK: 260
   BaseMagic: 50
-  Magic: 330
+  Magic: 130
   BaseDEF: 50
   DEF: 130
   BaseMagicRES: 50

@@ -25,10 +25,10 @@ MonoBehaviour:
   IsRestore: 0
   BuffCount: 0
   AnimationType: Ice2
-  Effect: "S\xE1t th\u01B0\u01A1ng = 10% Magic"
+  Effect: "S\xE1t th\u01B0\u01A1ng = 100% Magic"
   MPCost: 20
   ATKScale: 0
-  MagicScale: 10
+  MagicScale: 100
   RestoreHP: 0
   RestoreMP: 0
   BuffATK: 0

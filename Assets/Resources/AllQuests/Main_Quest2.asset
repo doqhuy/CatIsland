@@ -23,7 +23,8 @@ MonoBehaviour:
   IsEventClaimed: 0
   ItemsRequired: []
   KillList: []
-  QuestRequired: []
+  QuestRequired:
+  - MQ2
   CoinReward: 500
   ItemReward: []
   EquipmentReward: []

@@ -14,20 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentScene: FirstScene
   currentMapName: Island
-  currentPosition: {x: 100, y: 42, z: 0}
+  currentPosition: {x: 28.26001, y: 41.063503, z: 0}
   SavePointScene: FirstScene
   SavePointMap: Island
-  Time: 1233
+  Time: 44
   team:
     Teamate:
     - {fileID: 11400000, guid: 17ebbf129b691cd44bef807a3eed7ac5, type: 2}
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
-    ClaimedCharacter: []
+    ClaimedCharacter:
+    - {fileID: 11400000, guid: 17ebbf129b691cd44bef807a3eed7ac5, type: 2}
     CharacterDefaultData: {fileID: 11400000, guid: bb86f294947c5364fbeedddaa0001708, type: 2}
   inventory:
-    Coin: 8099
+    Coin: 2000
     InventorySize: 40
     Items: []
     KeyItems: []
