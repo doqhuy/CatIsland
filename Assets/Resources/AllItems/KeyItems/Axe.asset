@@ -19,18 +19,18 @@ MonoBehaviour:
   Usable: 1
   Removable: 1
   Name: "R\xECu L\u1EDBn"
-  EffectDescription: + 100 HP, + 100 ATK
+  EffectDescription: ' '
   Description: "C\xF4ng d\u1EE5ng ch\u1EB7t c\xE2y"
   IsHeal: 0
   IsBuff: 0
   IsMultiUse: 0
   SpecialEffect: 
   MaterialTag: 
-  HPRestore: 100
+  HPRestore: 0
   MPRestore: 0
   BuffCount: 0
-  ATKBuff: 100
+  ATKBuff: 0
   DEFBuff: 0
   SpeedBuff: 0
   LuckBuff: 0
-  Price: 400
+  Price: 250

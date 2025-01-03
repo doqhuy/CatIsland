@@ -34,8 +34,7 @@ MonoBehaviour:
   - item: {fileID: 11400000, guid: 7c49c589ca392c348aacd45478a2b7e2, type: 2}
     amount: 2
   EquipmentReward: []
-  CharacterReward:
-  - {fileID: 11400000, guid: 93532709b78c867499f4d8be325f8a07, type: 2}
+  CharacterReward: []
   NextQuests: []
   PreviousQuests: []
   MiniQuests: []

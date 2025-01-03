@@ -19,7 +19,7 @@ MonoBehaviour:
   Usable: 1
   Removable: 1
   Name: "R\xECu Nh\u1ECF"
-  EffectDescription: + 50 HP, + 50 ATK, + 1 Speed
+  EffectDescription: ' '
   Description: "D\u1ECDn s\u1EA1ch b\u1EE5i c\xE2y, tuy nh\u1ECF nh\u01B0ng c\xF3
     v\xF5"
   IsHeal: 0
@@ -27,11 +27,11 @@ MonoBehaviour:
   IsMultiUse: 0
   SpecialEffect: 
   MaterialTag: 
-  HPRestore: 50
+  HPRestore: 0
   MPRestore: 0
   BuffCount: 0
-  ATKBuff: 50
+  ATKBuff: 0
   DEFBuff: 0
   SpeedBuff: 1
   LuckBuff: 0
-  Price: 300
+  Price: 200

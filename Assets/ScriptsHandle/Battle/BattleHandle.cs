@@ -251,32 +251,96 @@ public class BattleHandle : MonoBehaviour
 		{
 			Target[turn].enemy.SetProtect();
 		}
-	}	
+	}
 
-	//Lượt tiếp theo
-	
+    //Lượt tiếp theo
 
-	
 
-	void SkillDisplay()
-	{
+
+
+    //void SkillDisplay()
+    //{
+    //    foreach (Transform child in SkillsList.transform)
+    //    {
+    //        Destroy(child.gameObject);
+    //    }
+    //    for (int i = 0; i < Target[turn].character.learnedSkills.Count; i++)
+    //    {
+
+
+    //        if (Target[turn].character.learnedSkills[i] != null)
+    //        {
+    //            // Instantiate a new skill button
+    //            GameObject skillButton = Instantiate(slotButtonPrefab, SkillsList.transform);
+    //            GameObject Name = skillButton.transform.Find("Name").gameObject;
+    //            GameObject Effect = skillButton.transform.Find("Effect").gameObject;
+
+    //            GameObject Mp = skillButton.transform.Find("Mp").gameObject;
+
+    //            GameObject Power = skillButton.transform.Find("Power").gameObject;
+    //            GameObject Type = skillButton.transform.Find("Type").gameObject;
+    //            GameObject SelTarget = skillButton.transform.Find("Target").gameObject;
+
+    //            Button button = skillButton.GetComponent<Button>();
+    //            Image image = skillButton.GetComponentInChildren<Image>();
+    //            TMP_Text NameText = Name.GetComponentInChildren<TMP_Text>();
+    //            TMP_Text EffectText = Effect.GetComponentInChildren<TMP_Text>();
+    //            TMP_Text MpText = Mp.GetComponentInChildren<TMP_Text>();
+    //            TMP_Text PowerText = Power.GetComponentInChildren<TMP_Text>();
+    //            TMP_Text TypeText = Type.GetComponentInChildren<TMP_Text>();
+    //            TMP_Text TargetText = SelTarget.GetComponentInChildren<TMP_Text>();
+
+
+
+    //            // Set the skill button's image and text
+    //            image.sprite = Target[turn].character.learnedSkills[i].Image;
+    //            NameText.text = Target[turn].character.learnedSkills[i].name;
+    //            EffectText.text = Target[turn].character.learnedSkills[i].Effect;
+    //            MpText.text = Target[turn].character.learnedSkills[i].MPCost.ToString();
+    //            PowerText.text = Target[turn].character.learnedSkills[i].MagicScale.ToString();
+    //            if (Target[turn].character.learnedSkills[i].DamageType == "Physic")
+    //            {
+    //                TypeText.text = "Vật lý";
+    //            }
+    //            TypeText.text = "Phép thuật";
+    //            if (Target[turn].character.learnedSkills[i].IsMultiple)
+    //            {
+    //                TargetText.text = "Đa mục tiêu";
+    //            }
+    //            TargetText.text = "Đơn mục tiêu";
+
+    //            // Add a listener to the skill button to cast the skill when clicked
+    //            int skillIndex = i; // To avoid closure issues
+    //            button.onClick.AddListener(() =>
+    //            {
+    //                tooltip.gameObject.SetActive(false);
+    //                Cancel.gameObject.SetActive(true);
+    //                SkillsList.gameObject.SetActive(false);
+    //                if (Target[turn].character.learnedSkills[skillIndex].IsMultiple)
+    //                {
+    //                    ShowTargetSelectionUIForAll(skillIndex);
+    //                }
+    //                else
+    //                    ShowTargetSelectionUIForSkill(skillIndex);
+    //            });
+    //        }
+    //    }
+    //}
+    void SkillDisplay()
+    {
         foreach (Transform child in SkillsList.transform)
         {
             Destroy(child.gameObject);
         }
         for (int i = 0; i < Target[turn].character.learnedSkills.Count; i++)
         {
-            
-            
-            if (Target[turn].character.learnedSkills[i] != null )
+            if (Target[turn].character.learnedSkills[i] != null)
             {
                 // Instantiate a new skill button
                 GameObject skillButton = Instantiate(slotButtonPrefab, SkillsList.transform);
                 GameObject Name = skillButton.transform.Find("Name").gameObject;
                 GameObject Effect = skillButton.transform.Find("Effect").gameObject;
-
                 GameObject Mp = skillButton.transform.Find("Mp").gameObject;
-
                 GameObject Power = skillButton.transform.Find("Power").gameObject;
                 GameObject Type = skillButton.transform.Find("Type").gameObject;
                 GameObject SelTarget = skillButton.transform.Find("Target").gameObject;
@@ -287,47 +351,60 @@ public class BattleHandle : MonoBehaviour
                 TMP_Text EffectText = Effect.GetComponentInChildren<TMP_Text>();
                 TMP_Text MpText = Mp.GetComponentInChildren<TMP_Text>();
                 TMP_Text PowerText = Power.GetComponentInChildren<TMP_Text>();
-				TMP_Text TypeText = Type.GetComponentInChildren<TMP_Text>();
-				TMP_Text TargetText = SelTarget.GetComponentInChildren<TMP_Text>();
-
-
+                TMP_Text TypeText = Type.GetComponentInChildren<TMP_Text>();
+                TMP_Text TargetText = SelTarget.GetComponentInChildren<TMP_Text>();
 
                 // Set the skill button's image and text
-                image.sprite = Target[turn].character.learnedSkills[i].Image;
-                NameText.text = Target[turn].character.learnedSkills[i].name;
-                EffectText.text = Target[turn].character.learnedSkills[i].Effect;
-                MpText.text = Target[turn].character.learnedSkills[i].MPCost.ToString();
-                PowerText.text = Target[turn].character.learnedSkills[i].MagicScale.ToString();
-				if (Target[turn].character.learnedSkills[i].DamageType == "Physic")
-				{
-					TypeText.text = "Vật lý";
-				}
-                TypeText.text = "Phép thuật";
-                if (Target[turn].character.learnedSkills[i].IsMultiple)
-                {
-                    TargetText.text = "Đa mục tiêu";
-                }
-                TargetText.text = "Đơn mục tiêu";
+                var skill = Target[turn].character.learnedSkills[i];
+                image.sprite = skill.Image;
+                NameText.text = skill.name;
+                EffectText.text = skill.Effect;
+                MpText.text = skill.MPCost.ToString();
+                PowerText.text = skill.MagicScale.ToString();
+                TypeText.text = skill.DamageType == "Physic" ? "Vật lý" : "Phép thuật";
+                TargetText.text = skill.IsMultiple ? "Đa mục tiêu" : "Đơn mục tiêu";
 
-                // Add a listener to the skill button to cast the skill when clicked
+                // Add a listener to the skill button
                 int skillIndex = i; // To avoid closure issues
                 button.onClick.AddListener(() =>
                 {
                     tooltip.gameObject.SetActive(false);
                     Cancel.gameObject.SetActive(true);
-					SkillsList.gameObject.SetActive(false);
-					if (Target[turn].character.learnedSkills[skillIndex].IsMultiple)
-					{
-                        ShowTargetSelectionUIForAll(skillIndex);
+                    SkillsList.gameObject.SetActive(false);
+
+                    if (Target[turn].character.MP < skill.MPCost)
+                    {
+                        // Show mana warning
+                        Debug.Log("Không đủ mana!");
+                        // You can replace this with a UI warning
+                        ShowManaWarning();
                     }
-					else
-                    ShowTargetSelectionUIForSkill(skillIndex);
+                    else
+                    {
+                        // Proceed with skill usage
+                        if (skill.IsMultiple)
+                        {
+                            ShowTargetSelectionUIForAll(skillIndex);
+                        }
+                        else
+                        {
+                            ShowTargetSelectionUIForSkill(skillIndex);
+                        }
+                    }
                 });
             }
         }
     }
-    
-	void ItemDisplay()
+
+    // Example method to display mana warning
+    void ShowManaWarning()
+    {
+        // Implement a UI popup or message here
+        Debug.Log("Không đủ mana để sử dụng kỹ năng này.");
+    }
+
+
+    void ItemDisplay()
 	{
         foreach (Transform child in ItemsList.transform)
         {

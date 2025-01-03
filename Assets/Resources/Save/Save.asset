@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cf9313b5be23e14eb84d9037c6686fe, type: 3}
   m_Name: Save
   m_EditorClassIdentifier: 
-  currentScene: FirstScene
-  currentMapName: Island
-  currentPosition: {x: 28.26001, y: 41.063503, z: 0}
-  SavePointScene: FirstScene
-  SavePointMap: Island
+  currentScene: DungeonScene
+  currentMapName: Dungeon
+  currentPosition: {x: 127.12, y: 76.38949, z: 0}
+  SavePointScene: DungeonScene
+  SavePointMap: Dungeon
   Time: 44
   team:
     Teamate:

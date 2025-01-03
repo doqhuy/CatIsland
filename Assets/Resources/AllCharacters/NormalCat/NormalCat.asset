@@ -16,7 +16,7 @@ MonoBehaviour:
   Avatar: {fileID: 385635061, guid: 1db0786b3d7c9f544b24f5568298e67b, type: 3}
   AvatarInBattle: {fileID: -1194115568, guid: 1db0786b3d7c9f544b24f5568298e67b, type: 3}
   AnimatorController: {fileID: 9100000, guid: 46ee5054eb787aa4ebfb983e61771686, type: 2}
-  Name: Huy
+  Name: Cat
   Job: {fileID: 11400000, guid: dea511c4b595e0045953c7bf73c248a6, type: 2}
   Description: "M\xE8o nh\xE2n v\u1EADt ch\xEDnh, th\xEDch \u0103n b\xF2 K\xF4 b\xEA,
     gh\xE9t b\u1ECB ch\xEA x\u1EA5u. K\u1EF9 n\u0103ng si\xEAu ph\xE0m n\u1EBFu bi\u1EBFt
@@ -61,11 +61,11 @@ MonoBehaviour:
   - Skill: {fileID: 11400000, guid: 6f87d3274700e9f4bae33c4c5e89cc0a, type: 2}
     LvRequired: 5
   - Skill: {fileID: 11400000, guid: 1ac572ecec848fd4c8d41ba4f2b11fc5, type: 2}
-    LvRequired: 11
+    LvRequired: 10
   - Skill: {fileID: 11400000, guid: 242a0357b5a00da46b6e978cbbf28e7c, type: 2}
-    LvRequired: 12
+    LvRequired: 11
   - Skill: {fileID: 11400000, guid: 6bcb57fc06a2f6242afff06e35c12bfc, type: 2}
-    LvRequired: 13
+    LvRequired: 10
   AttackAnimationType: Plant1
   IsPlaying: 0
   IsInTeam: 1
